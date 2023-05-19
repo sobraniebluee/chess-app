@@ -1,0 +1,39 @@
+.figures {
+  cursor: pointer;
+  &.bp {
+      background-image: url("./chess/bp.png");
+  }
+  &.bk {
+    background-image: url("./chess/bk.png");
+  }
+  &.bn {
+    background-image: url("./chess/bn.png");
+  }
+  &.bq {
+    background-image: url("./chess/bq.png") !important;
+  }
+  &.br {
+    background-image: url("./chess/br.png");
+  }
+  &.bb {
+    background-image: url("./chess/bb.png");
+  }
+  &.wp {
+    background-image: url("./chess/wp.png");
+  }
+  &.wk {
+    background-image: url("./chess/wk.png");
+  }
+  &.wn {
+    background-image: url("./chess/wn.png");
+  }
+  &.wq {
+    background-image: url("./chess/wq.png");
+  }
+  &.wr {
+    background-image: url("./chess/wr.png");
+  }
+  &.wb {
+    background-image: url("./chess/wb.png");
+  }
+}
